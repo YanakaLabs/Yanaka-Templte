@@ -1,0 +1,27 @@
+{
+  "name": "yanaka-templte",
+  "version": "1.0.0",
+  "description": "The advanced discord bot template is compatible with the discord.js library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanakaLabs/Yanaka-Templte.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord.js",
+    "discord",
+    "discord-template",
+    "discord.js-template",
+    "discord-system"
+  ],
+  "author": "iTZdll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YanakaLabs/Yanaka-Templte/issues"
+  },
+  "homepage": "https://github.com/YanakaLabs/Yanaka-Templte#readme"
+}
